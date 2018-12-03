@@ -1,0 +1,54 @@
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.thesevenleaves.com</h3>
+<a href="7 Leaves" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.beantownpromos.com</h3>
+<a href="Beantown Promos Inc" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Bid Cal, Inc. (GL)</h3>
+<h3 style="text-align:left;">Chico, CA
+95927</h3>
+<a href="www.bidcal.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cannabis Marketing Lab ( the)</h3>
+<h3 style="text-align:left;">Pismo Beach, CA
+93448</h3>
+<a href="www.thecannasbismarketinglab.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cannasiteco</h3>
+<h3 style="text-align:left;">Kent, WA
+98042</h3>
+<a href="CannaSiteCo.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">mygrasslands.com</h3>
+<a href="Grasslands" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Heavenly Brands</h3>
+<h3 style="text-align:left;">Woodland, WA
+98674</h3>
+<a href="heavenlybreandmarketing.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.hyperlicious.com</h3>
+<a href="Hyperlicious" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.melissajanemarketing.com</h3>
+<a href="Melissa Jane Marketing" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Retail Network, Inc.</h3>
+<h3 style="text-align:left;">troy, MI
+48083</h3>
+<a href="www.rn1.us" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Total Web Partners</h3>
+<h3 style="text-align:left;">Mt. Morris, MI
+48458</h3>
+<a href="totalwebpartners.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.visionsalesmi.com</h3>
+<a href="Vision Sales and Marketing" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.visionsalesmi.com</h3>
+<a href="Vision Sales and Marketing" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.visionsalesmi.com</h3>
+<a href="Vision Sales and Marketing" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>

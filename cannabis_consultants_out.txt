@@ -1,0 +1,65 @@
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">3C Cannabis Consulting</h3>
+<h3 style="text-align:left;">Denver, CO
+80211</h3>
+<a href="3ccannabis.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">4blooms.guru</h3>
+<a href="4 Blooms" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Brass Ring Consulting Group</h3>
+<h3 style="text-align:left;">Los Angeles, CA
+90013</h3>
+<a href="www.brassringconsult.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.califiagolf.com</h3>
+<a href="Califia Gold" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.cannabisseminarbrcinc.com</h3>
+<a href="Cannabis Consultant" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Ferndale Community Gardens</h3>
+<h3 style="text-align:left;">Ferndale, MI
+48093</h3>
+<a href="www.ferndalecommunitygardens.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Fyre Cannabis Consulting</h3>
+<h3 style="text-align:left;">Boulder, CO
+Boulder</h3>
+<a href="www.fyreconsulting.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Grow Generation Management Group</h3>
+<h3 style="text-align:left;">Livonia, MI
+48152</h3>
+<a href="www.growgeneration.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Head to Head Consultants</h3>
+<h3 style="text-align:left;">Gladstone, NJ
+07934-0542</h3>
+<a href="www.H2HConsultants.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Ice Cybersecurity</h3>
+<h3 style="text-align:left;">San Diego, CA
+San Diego</h3>
+<a href="www.icecybersecurity.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">MJFreeway.com</h3>
+<a href="MJ Freeway" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">powerplantstrategies.com</h3>
+<a href="Powerplant" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Spec Test Services LLC</h3>
+<h3 style="text-align:left;">Cypress, CA
+Cypress</h3>
+<a href="www.SpecTestServicesLLC.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Third Power Promotions</h3>
+<h3 style="text-align:left;">Ann Arbor, MI
+48104</h3>
+<a href="www.thirdpowerpromo.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">UL, LLC</h3>
+<h3 style="text-align:left;">Northbrook, IL
+60062</h3>
+<a href="www.ul.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>

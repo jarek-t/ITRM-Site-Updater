@@ -1,0 +1,90 @@
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">AE Works</h3>
+<h3 style="text-align:left;">Pittsburgh, PA
+15212</h3>
+<a href="www.ae-works.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">BCBS</h3>
+<h3 style="text-align:left;">Detroit, MI
+48226</h3>
+<a href="www.bcbsm.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cite Armored</h3>
+<h3 style="text-align:left;">Holly Springs, MS
+38634</h3>
+<a href="citearmored.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Crime Prevention Security</h3>
+<h3 style="text-align:left;">Ypsilanti, MI
+48198</h3>
+<a href="www.crimepreventionsecurity.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Crime Prevention Security</h3>
+<h3 style="text-align:left;">Ypsilanti, MI
+48198</h3>
+<a href="www.crimepreventionsecurity.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cunningham Glass and Door</h3>
+<h3 style="text-align:left;">livonia, MI
+48150</h3>
+<a href="www.cunninghamglass.net" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.geektek.com</h3>
+<a href="Geek Tek" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Great Northern Sentry Co.</h3>
+<h3 style="text-align:left;">Flint, MI
+48532</h3>
+<a href="www.teachoutsecurity.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Greenwatch</h3>
+<h3 style="text-align:left;">Kenmore, WA
+98028</h3>
+<a href="www.green.watch" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Greenwatch</h3>
+<h3 style="text-align:left;">Kenmore, WA
+98028</h3>
+<a href="www.green.watch" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.ino-tek.com</h3>
+<a href="Ino-Tek" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.ino-tek.com</h3>
+<a href="Ino-Tek" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Riverview Service, Inc.</h3>
+<h3 style="text-align:left;">Grand Rapids, Michigan
+49504</h3>
+<a href="www.riverviewservice.org" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Securatech</h3>
+<h3 style="text-align:left;">Farmington Hills, MI
+48334</h3>
+<a href="securatech.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Securatech</h3>
+<h3 style="text-align:left;">Farnington Hills, MI
+48334</h3>
+<a href="www.securatech.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.guardsyou.com</h3>
+<a href="Security & Protective Services" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Specialized Security Group</h3>
+<h3 style="text-align:left;">Detroit, MI
+Detroit</h3>
+<a href="SpecializedSecurityGroup.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Teachout Security Solutions</h3>
+<h3 style="text-align:left;">Flint, MI
+48532</h3>
+<a href="www.teachoutsecurity.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.towersecuritygroup.com</h3>
+<a href="Tower Security Group" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Web Safe</h3>
+<h3 style="text-align:left;">Little Rock, AR
+72204</h3>
+<a href="www.gemsyswebsafe.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>

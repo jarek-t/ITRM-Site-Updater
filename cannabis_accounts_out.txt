@@ -1,0 +1,77 @@
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.accountingforcannabis.com</h3>
+<a href="Accounting For Cannabis" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">ACT Resources, PLLC.</h3>
+<h3 style="text-align:left;">Federal Way, WA
+98003</h3>
+<a href="actresourcespllc.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Bridge West</h3>
+<h3 style="text-align:left;">Denver, CO
+80206</h3>
+<a href="www.bridgewestcpas.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">cannaTech.solutions</h3>
+<a href="Canna Tech Solutions, LLC" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">thecannacpas.com</h3>
+<a href="CannaCPAs (The)" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Citrin Cooperman, Accountants & Advisors</h3>
+<h3 style="text-align:left;">New York, NY
+10017</h3>
+<a href="citrincooperman.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">CPAMD, Ltd.</h3>
+<h3 style="text-align:left;">HOFFMAN EST, IL
+60010</h3>
+<a href="WWW.CPAMD.COM" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.greenbeancfo.com</h3>
+<a href="Green Bean" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Green Harvest Accounting</h3>
+<h3 style="text-align:left;">Cedar Springs, MI
+49319</h3>
+<a href="www.greenharvestaccounting.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Meadows Accounting Services</h3>
+<h3 style="text-align:left;">West Bloomfield Township, Oakland County
+48324</h3>
+<a href="https://meadowsaccountingservices.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Now CFO</h3>
+<h3 style="text-align:left;">Seattle, WA
+98104</h3>
+<a href="nowcfo.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Panacea Payroll</h3>
+<h3 style="text-align:left;">Pottstown, PA
+19464</h3>
+<a href="www.PanaceaPayroll.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Panacea Payroll</h3>
+<h3 style="text-align:left;">Pottstown, PA
+19464</h3>
+<a href="www.PanaceaPayroll.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Pay Qwick</h3>
+<h3 style="text-align:left;">Rockford, MI
+49341</h3>
+<a href="www.payQwick.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Pay Qwick</h3>
+<h3 style="text-align:left;">Rockford, MI
+49341</h3>
+<a href="www.payQwick.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">RW Group, LLC</h3>
+<h3 style="text-align:left;">Kennett Square, PA
+19348</h3>
+<a href="www.rwgroupllc.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">ZS Profit Solutions, Inc.</h3>
+<h3 style="text-align:left;">Woodland Hills, CA
+91364</h3>
+<a href="www.zsprofitsolutions.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>

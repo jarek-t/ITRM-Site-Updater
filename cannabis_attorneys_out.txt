@@ -1,0 +1,126 @@
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">7pointlaw.com</h3>
+<a href="7 Point Law" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cannabis Counsel</h3>
+<h3 style="text-align:left;">Detroit, MI
+48207</h3>
+<a href="www.cannabiscounsel.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cannabis Counsel</h3>
+<h3 style="text-align:left;">Detroit, MI
+48207</h3>
+<a href="www.cannabiscounsel.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cannabis Counsel</h3>
+<h3 style="text-align:left;">Detroit, MI
+48207</h3>
+<a href="www.cannabiscounsel.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cannabis Legal Group</h3>
+<h3 style="text-align:left;">Royal Oak, MI
+48067</h3>
+<a href="cannabislegalgroup.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Cannabis Legal Group</h3>
+<h3 style="text-align:left;">Royal Oak, MI
+48067</h3>
+<a href="cannabislegalgroup.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Dill and Dill Carr Stonbraker & Hutchings P.C.</h3>
+<h3 style="text-align:left;">Denver, CO
+80203</h3>
+<a href="dillanddill.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Frantz Ward LLP</h3>
+<h3 style="text-align:left;">Cleveland, OH
+44114</h3>
+<a href="FrantzWard.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">GleamLaw</h3>
+<h3 style="text-align:left;">Seattle, WA
+98112</h3>
+<a href="www.gleamlaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">GleamLaw</h3>
+<h3 style="text-align:left;">Seattle, WA
+98112</h3>
+<a href="www.gleamlaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Hallinan and Hallinan, PC</h3>
+<h3 style="text-align:left;">San Francisco, CA
+94102</h3>
+<a href="www.hallinan-law.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Jackson Kelly, PLLC</h3>
+<h3 style="text-align:left;">Lexington, KY
+40588-9945</h3>
+<a href="www.jacksonkelly.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Kaufman & Associates, LLC</h3>
+<h3 style="text-align:left;">Hauppauge, NY
+11788</h3>
+<a href="www.canbizlaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Komorn Law, PLLC</h3>
+<h3 style="text-align:left;">Farmington Hills, MI
+48334</h3>
+<a href="www.komornlaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Law Office of Matthew M. Cummings</h3>
+<h3 style="text-align:left;">Canton, MA
+02021</h3>
+<a href="www.matthewcummingslaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Law Offices of Jason M. Ranallo, PC</h3>
+<h3 style="text-align:left;">Canton, MA
+02021</h3>
+<a href="JasonRanalloLaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">MG Miller Intellectual Property Law LLC</h3>
+<h3 style="text-align:left;">New York, NY
+10004</h3>
+<a href="www.mgmiller.legal" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Michael Cindrich Law Offices</h3>
+<h3 style="text-align:left;">San Diego, CA
+92101</h3>
+<a href="www.michaelcindrich.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Norml</h3>
+<h3 style="text-align:left;">Washington DC, DC
+20005</h3>
+<a href="www.norml.org" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;margin-bottom:40%;">www.scofflawllc.com</h3>
+<a href="Scofflaw LLC" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Scott F. Roberts Law, PLC</h3>
+<h3 style="text-align:left;">Detroit, Michigan
+48201</h3>
+<a href="www.scottrobertslaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Scott F. Roberts Law, PLC</h3>
+<h3 style="text-align:left;">Detroit, Michigan
+48201</h3>
+<a href="www.scottrobertslaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Scott F. Roberts Law, PLC</h3>
+<h3 style="text-align:left;">Detroit, Michigan
+48201</h3>
+<a href="www.scottrobertslaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Shyler Engel</h3>
+<h3 style="text-align:left;">Shelby Township, MI
+48317</h3>
+<a href="www.shylerlaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Zuber Lawler & Del Duca LLP</h3>
+<h3 style="text-align:left;">New York, NY
+10119</h3>
+<a href="www.zuberlaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
+<div style="width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;">
+<h3 style="color:#3c663b;text-align:left;">Zuber Lawler & Del Duca LLP</h3>
+<h3 style="text-align:left;">Los Angeles, CA
+90071</h3>
+<a href="www.zuberlaw.com" target="_blank" rel="noopener" style="position:absolute;bottom:10%;left:0;right:0;width:30%;margin:auto;padding-top:1.75%;padding-bottom:1.75%;padding-left:7%;padding-right:7%;text-decoration:none;border-radius:15px;background-color:#3c663b;font-size:125%;color:#f2f0ee;vertical-align:bottom;">Visit</a></div>
