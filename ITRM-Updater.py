@@ -1,7 +1,7 @@
 # ---------------   Config   ---------------
-
+import data
 #Google api key
-key = "AIzaSyCd_m2sezcjiGrzn97ngwkrrGrSpKp24KY"
+key = data.google_api_key
 #Style of entry wrapper
 entry_style = "style=\"width:21%;display:inline-block;position:relative;min-height:30vh !important;margin-bottom:35%;text-align:center;margin:1.25%;vertical-align:top;padding:1.25%;background-color:#e8e6e4;\""
 #Style of entry href
